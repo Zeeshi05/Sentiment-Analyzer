@@ -114,9 +114,9 @@ Feel free to fork the repo and submit a pull request.
 
 ## 📢 Credits
 
-* **Dataset:** Amazon product reviews (source not included)  
+* **Dataset:** Amazon product reviews (Kaggle)  
 * **Libraries:** NLTK, Scikit-learn, Imbalanced-learn, Gradio, WordCloud  
-* **Developed by:** Your Name
+* **Developed by:** Muhammad Zeeshan
 
 ---
 
