@@ -56,7 +56,6 @@ Sentiment analysis can help:
 
    ```bash
    git clone https://github.com/Zeeshi05/Sentiment-Analyzer
-   cd amazon-review-sentiment
    ```
 
 2. **Install Requirements**
