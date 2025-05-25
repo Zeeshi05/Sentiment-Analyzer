@@ -128,10 +128,3 @@ Feel free to fork the repo and submit a pull request.
 
 ---
 
-**Notes:**
-
-- Replace `https://github.com/yourusername/amazon-review-sentiment.git` with your actual repo URL.  
-- Update model performance metrics with your real results.  
-- Add images to the `/images` folder if you want to display WordClouds or screenshots.  
-- Customize author name and any other details as needed.  
-- If you want, I can also help you generate a `requirements.txt` file or add badges!
